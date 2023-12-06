@@ -1,5 +1,7 @@
 # WorkingWithFile
-Application where each features are on different webpages. One can Save the details of Employee like Name, Company, Role etc and can Save the details which will get saved in Database as well as in File format in specified location. Furthermore, Details can be Read from application itself as well as can edit the details by updating or Deleting. 
+Application where each features are on different webpages. One can Save the details of Employee like Name, Company, Role etc and can Save the details which will get saved in Database as well as in File format in specified location. Furthermore, Details can be Read from application itself as well as can edit the details by updating or Deleting.
+
+
 <<<<Create Your Account>>>>
 <img width="251" alt="save the details" src="https://github.com/Sharmaa999/WorkingWithFile/assets/103804775/874f63ca-4850-455b-a572-2b0973aade71">
 
